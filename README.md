@@ -9,7 +9,7 @@ This script works as simple, as pasting the content of script.js into your websi
 Firstly it intercepts every network request and waits for the ad loading one with a status code of 200.
 You might need to improve the .includes("/watch"), if you are using youtube embeds or any other url which contains /watch.
 
-The following code opens the second url as image. This is the part where it automaticlly preses the ad for you. It does'nt show or open the tab anywhere.
+The following code opens the second url as image. This is the part where it automaticlly presses the ad for you. It does not show or open the tab anywhere.
 ```js
 if (this.status == 200 && url.includes('/watch')) {
     const url2 = extractUrl(this.responseText)[1]
