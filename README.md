@@ -1,8 +1,8 @@
 # Adsterra-Click-bot
 
-# This is a proof of concept. I am not responsible for any kind of damge or locked accounts.
+# This is a proof of concept. I am not responsible for any kind of damge or usage.
 
-This script works as simple, as pasting the content of script.js into your websites html file. Add it above any other script tag for the perfect experience.
+This script works as simple, as pasting the content of script.js into your websites html file.
 
 # How does the code work?
 
@@ -32,7 +32,7 @@ When ever a user then visit the site, its a normal impression, but additionally,
 Users won't even notice that btw.
 
 # Disclaimer
-Dont use it. It's for educational purpose.
-Adsterra can and will ban your account if you use this script (at least if you **abuse**) it.
-I am not responsible for any damage/bans.
-In case you use it, you should know it's click fraud.
+This is a proof of concept showing how to hook network requests in javascript!
+This repo does not promote or encourage anyone to use/try this program!
+Adsterra can and will ban your account if you use this script!
+I am not responsible for any damage/bans!
